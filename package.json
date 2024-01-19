@@ -1,6 +1,6 @@
 {
-  "name": "jotai-devtools",
-  "version": "0.7.1",
+  "name": "@slash-copilot/jotai-devtools",
+  "version": "0.7.2",
   "description": "A powerful toolkit to enhance your development experience with Jotai",
   "author": {
     "name": "Arjun Vegda",
